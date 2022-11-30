@@ -1,2 +1,2 @@
 # CLI-Calculator
-Run npx soft2 to access simple CLI calculator from anywhere
+Run npx apnacli to access simple CLI calculator from anywhere
